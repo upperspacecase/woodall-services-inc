@@ -1,0 +1,68 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "bi8Au",
+      "x": 0,
+      "y": 0,
+      "name": "Pasted Design",
+      "width": 1440,
+      "height": 5000,
+      "fill": "#FFFFFF",
+      "layout": "none"
+    },
+    {
+      "type": "frame",
+      "id": "RagQb",
+      "x": 1600,
+      "y": 0,
+      "name": "Current Website / App Design",
+      "clip": true,
+      "width": 1440,
+      "height": 5000,
+      "fill": "#F8FAFC",
+      "layout": "none",
+      "children": [
+        {
+          "type": "text",
+          "id": "JiBW1",
+          "x": 40,
+          "y": 40,
+          "name": "label1",
+          "fill": "#94A3B8",
+          "content": "Current Website / App Design",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "600"
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "em4as",
+      "x": 3200,
+      "y": 0,
+      "name": "Final Build Workspace",
+      "clip": true,
+      "width": 1440,
+      "height": 5000,
+      "fill": "#FFFFFF",
+      "layout": "none",
+      "children": [
+        {
+          "type": "text",
+          "id": "YvqWh",
+          "x": 40,
+          "y": 40,
+          "name": "label2",
+          "fill": "#94A3B8",
+          "content": "Final Build Workspace",
+          "fontFamily": "Inter",
+          "fontSize": 24,
+          "fontWeight": "600"
+        }
+      ]
+    }
+  ]
+}
