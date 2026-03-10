@@ -23,8 +23,7 @@ export default function Hero() {
                     <div className="lg:col-span-2">
 
                         <h1 className="text-3xl sm:text-5xl lg:text-6xl font-bold leading-[1.1] font-[family-name:var(--font-heading)]">
-                            Licensed Electrician in{" "}
-                            <span className="text-primary-light">New York City</span>
+                            {siteConfig.tagline}
                         </h1>
 
 
